@@ -1,2 +1,1 @@
-Hell Hexlet!
-I like to create new files
+Hello, Hexlet! How are you?
